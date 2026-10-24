@@ -2,7 +2,7 @@
 
 Data and marketing analyst. I work with customer and text data using NLP, Machine Learning and statistics methods with tools of Python, SQL and R and turn the results into decisions.
 
-Portfolio: [kylatang.github.io](https://kylatang.github.io) · [LinkedIn](https://www.linkedin.com/in/kylatang/)
+[LinkedIn](https://www.linkedin.com/in/kylatang/)
 
 ## Selected work
 
